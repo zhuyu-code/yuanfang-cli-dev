@@ -1,0 +1,25 @@
+{
+  "name": "@yuanfang-cli-dev/utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhuyu <zhuyu_yy@migu.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://r.cnpmjs.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.21.3"
+  }
+}
