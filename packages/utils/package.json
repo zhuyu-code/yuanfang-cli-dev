@@ -14,12 +14,13 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://r.cnpmjs.org/"
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "axios": "^0.21.3"
-  }
+  },
+  "gitHead": "17bfe3525d61a67529e35b1c804d40e1d8ad384c"
 }
