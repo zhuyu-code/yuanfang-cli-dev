@@ -1,6 +1,6 @@
 {
   "name": "@yuanfang-cli-dev/core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "zhuyu <zhuyu_yy@migu.cn>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@yuanfang-cli-dev/utils": "^0.0.0",
+    "@yuanfang-cli-dev/utils": "^0.0.1",
     "axios": "^0.21.3"
   }
 }
