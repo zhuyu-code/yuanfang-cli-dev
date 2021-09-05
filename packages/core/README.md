@@ -1,6 +1,6 @@
 # `core`
 
-> TODO: description
+> TODO: descriptionsd
 
 ## Usage
 
